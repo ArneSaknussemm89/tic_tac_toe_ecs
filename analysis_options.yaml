@@ -1,0 +1,7 @@
+linter:
+  rules:
+    unnecessary_statements: false
+
+analyzer:
+  language:
+    enableAssertInitializer: true
